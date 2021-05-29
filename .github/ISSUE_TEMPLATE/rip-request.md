@@ -1,8 +1,8 @@
 ---
-name: RIP Request
-about: Create a Raid Guild Improvement Project request
+name: rHIP Request
+about: Create a Rebel Human Improvement Proposal request
 title: ''
-labels: RIP
+labels: rHIP
 assignees: ''
 ---
 
@@ -18,7 +18,7 @@ This is a quick summary of the project idea.
 
 ## Why should we build this?
 
-This is a breakdown of why you believe the Guild should spend resources to build this idea. Does it create revenue? Does it benefit the greater Eth ecosystem? Does it save humanity?
+This is a breakdown of why you believe the Alliance should spend resources to build this idea. Does it helps maintain and increase the $UBI value? Does it benefit the greater PoH ecosystem? Does it improves the way we organize/collaborate/deliberate? Does it save humanity?
 
 ## Anything else you'd like to add?
 
@@ -32,4 +32,4 @@ Not at this time.
 
 ## Cost (in USD)
 
-\$5000
+\$X000
