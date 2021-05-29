@@ -1,19 +1,19 @@
-# RIPs
+rHIPs
 
-Registry of internal Raid Guild Improvment Projects
+Registry of internal Rebel Improvement Proposals
 
-## Submitting an RIP Request
+## Submitting an rHIPs Request
 
-Submit a new potential RIP as an [issue](https://github.com/raid-guild/RIPs/issues/new) with the RIP issue template. Follow the status of the potential RIP through the [RIP Request](https://github.com/raid-guild/RIPs/projects/1) project. Accepted Finalized RIPs are added as Pull Requests closing the Issue.
+Submit a new potential rHIP as an [issue](https://github.com/UBI-Rebel-Alliance/rHIP/issues/new) with the rHIP issue template. Follow the status of the potential rHIP through the [rHIP Request](https://github.com/UBI-Rebel-Alliance/rHIP/projects/1) project. Accepted Finalized rHIPs are added as Pull Requests closing the Issue.
 
-During the Consideration phase, we should use the opportunity to find apprentices to provide opportunities for up-and-coming Raid Guilders to earn shares.
+During the Consideration phase, we should use the opportunity to find apprentices to provide opportunities for them to earn their place in the Alliance.
 
-## RIP
+## rHIPs
 
-Post your ideas, in the form of an issue, for a Raid Guild Improvement Projects !
+Post your ideas, in the form of an issue, for a Rebel Improvement Proposal!
 
-If you have an idea that YOU think would improve the Guild then drop it here for someone else to pick-up.
+If you have an idea that YOU think would help the UBI token maintain and rise in value, facilitate the registry of people in remote areas, or improve the way the UBI Rebel Alliance operates, then drop it here for someone else to pick-up.
 
-Raid Guild members post ideas that they have for improvements to the Guild, if you are interested in joining the Guild and see an issue that you would like to lead then let us know by posting in the issue URL in the [Lobby](https://discord.gg/eCJECEa) and we'll start an RIP channel for you to run the show.
+The UBI Rebel Alliance members post ideas that they have for improvements to the Alliance, if you are interested in joining us and see an issue that you would like to lead then let the Alliance know by posting the issue URL in the [Tavern](https://discord.gg/tCqejWszXY) and we'll start a rHIP channel for you to run the show.
 
-Feel free to ask for help or seek some allies for you RIP on Discord.
+Feel free to ask for help or seek some allies for you rHIP on Discord.
