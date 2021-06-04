@@ -2,8 +2,8 @@
 name: Product/Project Request
 about: Create a Human Product Proposal
 title: Proposal Name [Phase 1]
-labels: ''
-assignees: HBesso31
+labels: Community Assistance, Tech, help wanted
+assignees: ''
 
 ---
 
