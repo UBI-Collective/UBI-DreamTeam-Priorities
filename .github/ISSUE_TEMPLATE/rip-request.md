@@ -4,6 +4,7 @@ about: Create a Rebel Human Improvement Proposal request
 title: ''
 labels: rHIP
 assignees: ''
+
 ---
 
 # Project Idea
