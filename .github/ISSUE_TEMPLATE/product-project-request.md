@@ -1,8 +1,8 @@
 ---
 name: Product/Project Request
-about: Create a Human Product Proposal
-title: Proposal Name [Phase 1]
-labels: Community Assistance, Tech, help wanted
+about: Create a DreamTeam Proposal
+title: Proposal Name
+labels: Hackathon, Coordination, Growth, Fundraising, Onboarding, Dev
 assignees: ''
 
 ---
@@ -19,7 +19,7 @@ This is a quick summary of the project idea.
 
 ## Why should we build this?
 
-This is a breakdown of why you believe the PoH Community should spend resources to build this idea. Does it help maintain and increase the $UBI value? Does it benefit the greater PoH ecosystem? Does it improve the way we organize/collaborate/deliberate? Does it save humanity?
+This is a breakdown of why you believe the UBI Blockchain Collective should spend time and resources to build this idea. Is it a public infrastructure for delivering UBI to the world? or Will it improve the way of accessing UBI? or Does it improve the way we organize/collaborate/deliberate?
 
 ## Anything else you'd like to add?
 
@@ -27,9 +27,9 @@ Not at this time.
 
 ## Human Skills Needed
 
-- Design
-- Content
-- Full Stack Dev
+- Marketer
+- Fullstack Dev
+- ...
 
 ## Cost (in USD)
 
