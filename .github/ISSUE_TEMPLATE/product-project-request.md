@@ -2,7 +2,7 @@
 name: Product/Project Request
 about: Create a DreamTeam Proposal
 title: Proposal Name
-labels: Hackathon, Coordination, Growth, Fundraising, Onboarding, Dev
+labels: DTP, Hackathon, Coordination, Growth, Fundraising, Onboarding, Dev
 assignees: ''
 
 ---
