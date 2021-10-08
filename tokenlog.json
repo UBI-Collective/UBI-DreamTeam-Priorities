@@ -1,8 +1,8 @@
 {
-    "org": "raid-guild",
-    "repo": "RIPs",
-    "tokenAddress": "0x4bbc860b82e70cb7af1fd50debb0143e0f53e016",
-    "labels": ["proposal"],
+    "org": "UBI-Collective",
+    "repo": "UBI-DreamTeam-Priorities",
+    "tokenAddress": "0xc037E3e26417E6a038730aA73C8D5101115d9f95",
+    "labels": ["DTP"],
     "votingMethod": "QUADRATIC",
-    "chainId": 1
+    "chainId": 100
 }
