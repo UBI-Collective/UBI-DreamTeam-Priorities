@@ -5,17 +5,19 @@ body:
   - type: textarea
     id: feature
     attributes:
-      label: Feature Submitted By (your name/org)
+      label: Feature Submitted By
+      description: ]Your org's name or your name
     validations:
       required: true
       
   - type: textarea
-    id: feature
+    id: summary
     attributes:
-      label: Give a quick summary of the feature idea.
+      label: 
+      description: Give a quick summary of the feature idea.
     validations:
       required: true
-
+         
   - type: textarea
     id: reason
     attributes:
@@ -25,14 +27,14 @@ body:
       required: true
 
   - type: textarea
-    id: feature
+    id: skills
     attributes:
       label: Skills Needed?
     validations:
       required: true
 
   - type: textarea
-    id: feature
+    id: Funding
     attributes:
       label: Funding (in USD)
       Are you or your org willing to build or fund this? If so please tell how much can you contribute in it. Otherwise, leave it empty, an engaged Octo might want to take ownership of it :)
