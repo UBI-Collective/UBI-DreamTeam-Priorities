@@ -1,7 +1,7 @@
 Español abajo
 # DreamTeam Priorities (DTP)
 
-This is the process for registering the interests of each member organization of the collective and putting them to a vote. The interest proposals registered here will immediately appear on the TokenLog page [link] where all members of the Collective vote to indicate which are the common priorities that the DreamTeam should focus on.
+This is the process for registering the interests of each member organization of the collective and putting them to a vote. The interest proposals registered here will immediately appear on the [TokenLog page] (https://tokenlog.xyz/UBI-Collective/UBI-DreamTeam-Priorities) where all members of the Collective vote to indicate which are the common priorities that the DreamTeam should focus on.
 
 ## Submitting a DTP Request
 
@@ -11,7 +11,7 @@ Submit a new potential DTP as an [issue](https://github.com/UBI-Collective/UBI-D
 --
 # Prioridades del DreamTeam (DTP por sus siglas en inglés)
 
-Este es el proceso para registrar los intereses de cada organización miembro del colectivo y ponerlas a votación. Las propuestas de interés aquí registradas aparecerán inmediatamente en la página de TokenLog [enlace] donde todos los miembros del Colectivo votan para señalar cuales son las prioridades comunes en las que el DreamTeam se debe enfocar. 
+Este es el proceso para registrar los intereses de cada organización miembro del colectivo y ponerlas a votación. Las propuestas de interés aquí registradas aparecerán inmediatamente en la página de [TokenLog] (https://tokenlog.xyz/UBI-Collective/UBI-DreamTeam-Priorities) donde todos los miembros del Colectivo votan para señalar cuales son las prioridades comunes en las que el DreamTeam se debe enfocar. 
 
 ## Presentación de una solicitud de DTP
 
