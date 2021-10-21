@@ -1,0 +1,43 @@
+name: Product/Project Request
+description: Create a DreamTeam Proposal with the tag "Roadmap" to display it in https://tokenlog.xyz/UBI-Collective/UBI-DreamTeam-Priorities where it will be voted by the UBI BC members. 
+labels: DTP, Hackathon, Coordination, Growth, Fundraising, Onboarding, Dev
+body:
+  - type: textarea
+    id: orgname
+    attributes:
+      label: Feature Submitted By
+      description: your name/org
+    validations:
+      required: true
+
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: Give a quick summary of the feature idea.
+    validations:
+      required: true
+
+  - type: textarea
+    id: reason
+    attributes:
+      label: Why should we build this?
+      description: This is a breakdown of why you believe the UBI Blockchain Collective should spend time and resources to build this idea. Is it a public infrastructure for delivering UBI to the world? or Will it improve the way of accessing UBI? or Does it improve the way we organize/collaborate/deliberate?
+    validations:
+      required: true
+
+  - type: textarea
+    id: skills
+    attributes:
+      label: Skills Needed?
+      description: Add the professional profiles you think are needed to make this idea happen.
+    validations:
+      required: true
+
+  - type: textarea
+    id: funding
+    attributes:
+      label: Funding (in USD)
+      description: Are you or your org willing to build or fund this? If so please tell how much can you contribute in it (in time and money). Otherwise, leave it empty, if the collective finds it as a top priority the Fundraising Dream Team will look for the funds for realizing it.
+    validations:
+      required: false
