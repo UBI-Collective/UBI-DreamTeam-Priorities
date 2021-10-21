@@ -2,11 +2,25 @@ name: Product/Project Request
 description: Create a DreamTeam Proposal with the tag "Roadmap" to display it in https://tokenlog.xyz/UBI-Collective/UBI-DreamTeam-Priorities where it will be voted by the UBI BC members. 
 labels: DTP, Hackathon, Coordination, Growth, Fundraising, Onboarding, Dev
 body:
-  - type: textarea
-    id: orgname
+  - type: dropdown
+    id: orgs_name
     attributes:
       label: Feature Submitted By
-      description: your name/org
+      options:
+        - Mission Possible 2030
+        - MetaGame
+        - Impact Market
+        - Kotani Pay
+        - UBI Vault
+        - Circles
+        - RYO
+        - Encointer
+        - BIEN
+        - Proof of Humanity
+        - EVA
+        - ACORN Telos UBI
+        - UBI BC
+        - Non registered member
     validations:
       required: true
 
